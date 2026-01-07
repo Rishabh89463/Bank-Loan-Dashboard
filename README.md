@@ -1,10 +1,10 @@
 Bank Loan Analysis Dashboard (Power BI Project)
 
-📊 Project Overview
+Project Overview
 The Bank Loan Analysis Dashboard is an interactive Power BI report designed to provide a comprehensive overview of loan performance and portfolio health. It helps financial institutions track funded and received amounts, identify good vs. bad loans, and monitor key metrics such as interest rates and DTI ratios — enabling data-driven decisions for better credit risk management.
 This project demonstrates the ability to transform raw financial data into meaningful insights using Power BI, DAX, and data modeling techniques.
 
-📁 Data Source & Preparation
+Data Source & Preparation
 Dataset: financial_loan_data_excel.xlsx
 Size: ~38K loan applications
 
