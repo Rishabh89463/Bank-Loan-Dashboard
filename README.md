@@ -6,7 +6,7 @@ This project demonstrates the ability to transform raw financial data into meani
 
 Data Source & Preparation
 Dataset: financial_loan_data_excel.xlsx
-Size: ~38K loan applications
+Size: 38K loan applications
 
 Data Cleaning:
 
