@@ -9,7 +9,6 @@ Dataset: financial_loan_data_excel.xlsx
 Size: 38K loan applications
 
 Data Cleaning:
-
 Removed missing or duplicate loan entries
 Standardized column names and date formats
 Categorized loans into Good (Fully Paid, Current) and Bad (Charged-Off) segments
