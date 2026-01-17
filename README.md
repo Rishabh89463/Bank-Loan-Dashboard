@@ -16,7 +16,6 @@ Categorized loans into Good (Fully Paid, Current) and Bad (Charged-Off) segments
 Tools Used:
 Power BI Desktop for dashboard creation
 Power Query for data transformation
-
 DAX for calculated measures and KPIs
 
 📈 Dashboard 1 – Summary Dashboard
