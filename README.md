@@ -18,7 +18,7 @@ Power BI Desktop for dashboard creation
 Power Query for data transformation
 DAX for calculated measures and KPIs
 
-📈 Dashboard 1 – Summary Dashboard
+Dashboard 1 – Summary Dashboard
 
 Purpose: Provide a quick snapshot of overall bank loan performance.
 Key Metrics:
