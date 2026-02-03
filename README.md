@@ -13,7 +13,7 @@ Removed missing or duplicate loan entries
 Standardized column names and date formats
 Categorized loans into Good (Fully Paid, Current) and Bad (Charged-Off) segments
 
-Tools Used:
+Tools Used :
 Power BI Desktop for dashboard creation
 Power Query for data transformation
 DAX for calculated measures and KPIs
