@@ -10,7 +10,7 @@ Size: 38K loan applications
 
 Data Cleaning:
 Removed missing or duplicate loan entries
-Standardized column names and date formats
+Standardized column names and date format
 Categorized loans into Good (Fully Paid, Current) and Bad (Charged-Off) segments
 
 Tools Used
